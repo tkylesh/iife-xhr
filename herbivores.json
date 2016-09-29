@@ -1,0 +1,16 @@
+
+{
+    "herbivores": [{
+        "animal": "Giraffe"
+    }, {
+        "animal": "Deer"
+    }, {
+        "animal": "Elk"
+    }, {
+        "animal": "Elephant"
+    }, {
+        "animal": "Mountain Gorilla"
+    }, {
+        "animal": "Rhino"
+    }]
+}
