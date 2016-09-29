@@ -1,0 +1,15 @@
+{
+    "carnivores": [{
+        "animal": "Bear"
+    }, {
+        "animal": "Wolf"
+    }, {
+        "animal": "Lion"
+    }, {
+        "animal": "Leopard"
+    }, {
+        "animal": "Tyranosaurus-Rex"
+    }, {
+        "animal": "Raptor"
+    }]
+}
